@@ -61,7 +61,13 @@ if uploaded_file is not None:
     st.pyplot(fig)
 ```
 
-### 8. Hasil Projek
+### 8. Menjalankan Project
+ketik ini pada cmd/terminal anda
+```
+streamlit run app.py
+```
+
+### 9. Hasil Projek
 ![Screenshot (398)](https://github.com/DimasF3009/Pengolahan-Citra-7/assets/115356128/58454322-c62d-40df-8084-5b55f28d01cb)
 
 
