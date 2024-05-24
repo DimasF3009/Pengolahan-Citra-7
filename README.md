@@ -6,6 +6,7 @@
 
 # Penjelasan
 ### 1. Langkah pertama kita import library yang diperlukan
+jika belum memiliki library tersebut silahkan install dengan cara python -m pip install(nama pakacge)
 ```
 import streamlit as st
 import matplotlib.pyplot as plt
