@@ -1,4 +1,4 @@
-# Tugaas Pengolahan Citra Convex Hull Transformation 
+# Tugas Pengolahan Citra Convex Hull Transformation 
 
 | NIM | Nama |
 | - | - |
